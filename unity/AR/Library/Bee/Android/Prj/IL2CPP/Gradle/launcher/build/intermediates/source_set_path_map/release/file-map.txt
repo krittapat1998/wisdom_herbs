@@ -1,0 +1,11 @@
+com.DefaultCompany.AR.launcher-pngs-0 C:\KRIT\flutter\wisdom_herbs\unity\AR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.AR.launcher-resValues-1 C:\KRIT\flutter\wisdom_herbs\unity\AR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.AR.launcher-rs-2 C:\KRIT\flutter\wisdom_herbs\unity\AR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.AR.launcher-mergeReleaseResources-3 C:\KRIT\flutter\wisdom_herbs\unity\AR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.AR.launcher-mergeReleaseResources-4 C:\KRIT\flutter\wisdom_herbs\unity\AR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.AR.launcher-merged_res-5 C:\KRIT\flutter\wisdom_herbs\unity\AR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.AR.launcher-main-6 C:\KRIT\flutter\wisdom_herbs\unity\AR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.DefaultCompany.AR.launcher-release-7 C:\KRIT\flutter\wisdom_herbs\unity\AR\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\release\res
+com.DefaultCompany.AR.launcher-packaged_res-8 C:\KRIT\flutter\wisdom_herbs\unity\AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.DefaultCompany.AR.launcher-packaged_res-9 C:\KRIT\flutter\wisdom_herbs\unity\AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\release
+com.DefaultCompany.AR.launcher-jetified-arcore_client-10 C:\Users\krit-ptc\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\res

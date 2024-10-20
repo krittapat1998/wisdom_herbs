@@ -1,0 +1,883 @@
+[
+  {
+    "groupName": "กลุ่มวิสาหกิจชุมชนสมุนไพรตำบลห้วยโจด",
+    "contactName": "เสาวลักษ์ เข็มวิลัย",
+    "phoneNumber": "0927590137",
+    "lineID": "0927590137",
+    "address": "69 หมู่ 7",
+    "subdistrict": "ห้วยโจด",
+    "district": "วัฒนานคร",
+    "province": "สระแก้ว",
+    "postalCode": "27160",
+    "affiliation": "เป็นสมาชิกกลุ่มกิจกรรมหรือกลุ่มวิสาหกิจ",
+    "groupOperations": "ผู้ปลูก, ผู้แปรรูป",
+    "enterpriseHistory": "ตั้งขึ้นเพื่อรวบรวมสินค้าสมุนไพรเกษตรจากสมาชิกกลุ่มแล้วนำไปขายให้แหล่งรรับซื้อต่อ และเป็นศูนย์การเรียนรู้สมุนไพรปลอดสารพิษ",
+    "membershipAndOrganization": "4 คน",
+    "qualitycontrol": "ปลูกแบบปลอดสารตามเงื่อนไขของการปลูกสมุนไพรแบบไร้สาร",
+    "groupLocation": "69 หมู่ 7 ต.ห้วยโจด อ.วัฒนานคร จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "1 - 3 ชนิด",
+    "soldThroughLocal": "มี",
+    "soldThroughOnline": "ไม่มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+      "herbsType1": {
+        "herbs": [
+          {
+            "herbName": "ฟ้าทะลายโจร",
+            "certification": "SDGsPGS",
+            "herbPlanting": "5/1/2023",
+            "herbHarvest": "7/31/2023",
+            "areaSize": "1 ไร่",
+            "yield": "3000 (กิโลกรัม)",
+            "pricePerKg": "5 บาท (สด) 20 (แห้ง)",
+            "incomePerKg": "ไม่มี เนื่องจากได้รับความนิยมลดลงหลังโควิด",
+            "buyer": "ฟาร์มจ่าทูล",
+            "productionCost": "2000 บาท/ไร่",
+            "problems": "ความไม่แน่นอนของตลาด ภาครัฐส่งเสริมไม่ต่อเนื่อง"
+          }
+        ]
+      },
+      "herbsType2": {
+        "herbs": [
+          {
+            "herbName": "เพชรสังฆาต",
+            "certification": "ยังไม่ได้รับมาตรฐานใดๆ",
+            "herbPlanting": "11/1/2022",
+            "herbHarvest": "7/23/2023",
+            "areaSize": "1 ไร่",
+            "yield": "3000 (กิโลกรัม)",
+            "pricePerKg": "10 บาท (สด) 180 บาท (แห้ง)",
+            "incomePerKg": "80 (บาท/กิโลกรัม)",
+            "buyer": "ฟาร์มจ่าทูล",
+            "productionCost": "15000 บาท/ไร่",
+            "problems": "ความไม่แน่นอนของตลาด และแหล่งรับซื้อ"
+          }
+        ]
+      },
+      "herbsType3": {
+        "herbs": [
+          {
+            "herbName": "มะระขี้นก",
+            "certification": "ยังไม่ได้รับมาตรฐานใดๆ",
+            "herbPlanting": "2/1/2023",
+            "herbHarvest": "7/8/2023",
+            "areaSize": "1 ไร่",
+            "yield": "1500 (กิโลกรัม)",
+            "pricePerKg": "20 บาท (สด) 180 บาท (แห้ง)",
+            "incomePerKg": "60 (บาท/กิโลกรัม)",
+            "buyer": "ฟาร์มจ่าทูล",
+            "productionCost": "1300 บาท/ไร่",
+            "problems": "ตลาดไม่แน่นอน ภาครัฐส่งเสริมไม่ต่อเนื่อง"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "groupName": "ชุมชนสมุนไพร บ้านใหม่คลองยาง",
+    "contactName": "บุญช่วย สุทธิธรรม",
+    "phoneNumber": "0813134892",
+    "lineID": "0813134892",
+    "address": "7 หมู่ 4",
+    "subdistrict": "ซับมะกรูด",
+    "district": "คลองหาด",
+    "province": "สระแก้ว",
+    "postalCode": "27260",
+    "affiliation": "เป็นสมาชิกกลุ่มกิจกรรมหรือกลุ่มวิสาหกิจ",
+    "groupOperations": "ผู้ปลูก",
+    "enterpriseHistory": "สมัยก่อนไปเรียนเกี่ยวกับสมุนไพรที่วัดโพธ์ พอได้ความรู้แล้วมาปลูก เริ่มแรกปลูกที่บุรีรัมย์ เพชรสังฆาต ขิง ข่า ขมิ้น ฟ้าทลายโจร ปัจจุบันปลูกที่คลองหาด",
+    "membershipAndOrganization": "17 คน",
+    "qualitycontrol": "ก่อนจะขายต้องส่งวิเคราะห์ก่อน ที่ วิทยาศาสตร์เทคโนโลยีปทุมธานี ",
+    "groupLocation": "7 หมู่ 4 ต.ซับมะกรูด อ.คลองหาด จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "10 ชนิดขึ้นไป",
+    "soldThroughLocal": "ไม่มี",
+    "soldThroughOnline": "ไม่มี",
+    "exportSales": "มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+    }
+  },
+  {
+    "groupName": "วิสาหกิจชุมชนกลุ่มปลูกพืชวมุนไพรและแปรรูปผลิตภัณท์สมุนไพร",
+    "contactName": "วิมล เรื่อง",
+    "phoneNumber": "0615569437",
+    "lineID": "-",
+    "address": "427 ม.4 บ้านทุดเรียน",
+    "subdistrict": "ตาพระยา",
+    "district": "ตาพระยา",
+    "province": "สระแก้ว",
+    "postalCode": "27180",
+    "affiliation": "เป็นสมาชิกกลุ่มกิจกรรมหรือกลุ่มวิสาหกิจ",
+    "groupOperations": "ผู้ปลูก",
+    "enterpriseHistory": "18 มีนาคม 2556",
+    "membershipAndOrganization": "11 คน",
+    "qualitycontrol": "ให้สาธารณะสุขตรวจสอบ",
+    "groupLocation": "427 ม.4 บ้านทุดเรียน ต.ตาพระยา อ.ตาพระยา จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "1 - 3 ชนิด",
+    "soldThroughLocal": "มี",
+    "soldThroughOnline": "ไม่มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+      "herbsType1": {
+        "herbs": [
+          {
+            "herbName": "ขมิ้นชัน",
+            "certification": "SDGsPGS",
+            "herbPlanting": "12/6/2023",
+            "herbHarvest": "12/11/2023",
+            "areaSize": "1 งาน",
+            "yield": "-",
+            "pricePerKg": "20/กิโลกรัม",
+            "incomePerKg": "30,000 (บาท/กิโลกรัม)",
+            "buyer": "ขายในชุมชน ตลาดหมู่บ้าน เครื่อข่าย",
+            "productionCost": "10000 กว่าบาท",
+            "problems": "-"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "groupName": "วิสาหกิจชุมชนข้าวรวงแต้",
+    "contactName": "สมจินตื ปิ่นแก้ว",
+    "phoneNumber": "0631698224",
+    "lineID": "-",
+    "address": "112 ม.16",
+    "subdistrict": "โคกปี่ฆ้อง",
+    "district": "เมืองสระแก้ว",
+    "province": "สระแก้ว",
+    "postalCode": "27000",
+    "affiliation": "เป็นสมาชิกกลุ่มกิจกรรมหรือกลุ่มวิสาหกิจ",
+    "groupOperations": "ผู้แปรรูป",
+    "enterpriseHistory": "สถาบันอุดมศึกษาของกระทรวง อว.เป็นสถานที่สาธิต และบริการทางวิชาการ แก่ชุมชน สังกัด วิทยาลัยชุมชนสระแก้ว",
+    "membershipAndOrganization": "83 คน",
+    "qualitycontrol": "-",
+    "groupLocation": "112 ม.16 ต.โคกปี่ฆ้อง อ.เมืองสระแก้ว จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "1 - 3 ชนิด",
+    "soldThroughLocal": "ไม่มี",
+    "soldThroughOnline": "ไม่มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+      "herbsType1": {
+        "herbs": [
+          {
+            "herbName": "ขมิ้นชัน",
+            "certification": "SDIFOAM",
+            "herbPlanting": "5/5/2023",
+            "herbHarvest": "5/4/2023",
+            "areaSize": "10 ไร่",
+            "yield": "-",
+            "pricePerKg": "20/กิโลกรัม",
+            "incomePerKg": "18,000 (บาท/กิโลกรัม)",
+            "buyer": "-",
+            "productionCost": "12000 (บาท/ไร่)",
+            "problems": "-"
+          }
+        ]
+      },
+      "herbsType2": {
+        "herbs": [
+          {
+            "herbName": "ฟ้าทะลายโจร",
+            "certification": "IFOAM",
+            "herbPlanting": "5/5/2023",
+            "herbHarvest": "5/10/2023",
+            "areaSize": "1 ไร่",
+            "yield": "-",
+            "pricePerKg": "-",
+            "incomePerKg": "7,500 (บาท/กิโลกรัม)",
+            "buyer": "-",
+            "productionCost": "4,500 (บาท/ไร่)",
+            "problems": "-"
+          }
+        ]
+      },
+      "herbsType3": {
+        "herbs": [
+          {
+            "herbName": "ฟ้าทะลายโจร",
+            "certification": "IFOAM",
+            "herbPlanting": "5/5/2023",
+            "herbHarvest": "5/1/2023",
+            "areaSize": "1 ไร่",
+            "yield": "-",
+            "pricePerKg": "-",
+            "incomePerKg": "30,000 (บาท/กิโลกรัม)",
+            "buyer": "-",
+            "productionCost": "10,000 (บาท/ไร่)",
+            "problems": "-"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "groupName": "ศูนย์สมุนไพร วิทยาลัยชุมชนสระแก้ว",
+    "contactName": "สรร ศรีสละ",
+    "phoneNumber": "0844478929",
+    "lineID": "S.srisaLa",
+    "address": "วิทยาลัยชุมชนสระแก้ว ",
+    "subdistrict": "ท่าเกวียน",
+    "district": "วัฒนานคร",
+    "province": "สระแก้ว",
+    "postalCode": "27160",
+    "affiliation": "ศูนย์เรียนรุ้เกษตรและสมุนไพร วิทยาลัยชุมชนสระแก้ว",
+    "groupOperations": "ผู้ปลูก, ผู้แปรรูป",
+    "enterpriseHistory": "สถาบันอุดมศึกษาของกระทรวง อว.เป็นสถานที่สาธิต และบริการทางวิชาการ แก่ชุมชน สังกัด วิทยาลัยชุมชนสระแก้ว",
+    "membershipAndOrganization": "สถานศึกษา ระดับ อนุปริญญา",
+    "qualitycontrol": "มีความร่วมมือกับมหาวิทยาลัยเกษตรที่ปรึกษาในการปลูกและดูแลรักษา",
+    "groupLocation": "วิทยาลัยชุมชนสระแก้ว ต.ท่าเกวียน อ.วัฒนานคร จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "10 ชนิดขึ้นไป",
+    "soldThroughLocal": "มี",
+    "soldThroughOnline": "มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+    }
+  },
+  {
+    "groupName": "ผลิตภัทณ์เกษตรผสมผสาน",
+    "contactName": "ประพิศ สีเขียว",
+    "phoneNumber": "0895196709",
+    "lineID": "0895196709",
+    "address": "65 หมุ่ 10",
+    "subdistrict": "ท่าแยก",
+    "district": "เมืองสระแก้ว",
+    "province": "สระแก้ว",
+    "postalCode": "27000",
+    "affiliation": "ไม่สังกัดหรือไม่เป็นสมาชิกกลุ่มใด",
+    "groupOperations": "ผู้ปลูก",
+    "enterpriseHistory": "พึ่งเริ่มปลูก",
+    "membershipAndOrganization": "4 คน",
+    "qualitycontrol": "พึ่งเริ่มปลูก",
+    "groupLocation": "65 หมุ่ 10 ต.ท่าแยก  อ.เมืองสระแก้ว จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "10 ชนิดขึ้นไป",
+    "soldThroughLocal": "ไม่มี",
+    "soldThroughOnline": "ไม่มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+    },
+    "herbsType1": {
+      "herbs": [
+        {
+          "herbName": "ขมิ้นชัน",
+          "certification": "ยังไม่ได้รับมาตรฐานใดๆ",
+          "herbPlanting": "4/6/2023",
+          "herbHarvest": "7/9/2023",
+          "areaSize": "1 ไร่",
+          "yield": "พึ่งเริ่มปลูก",
+          "pricePerKg": "พึ่งเริ่มปลูก",
+          "incomePerKg": "พึ่งเริ่มปลูก",
+          "buyer": "พึ่งเริ่มปลูก",
+          "productionCost": "พึ่งเริ่มปลูก",
+          "problems": "พึ่งเริ่มปลูก"
+        }
+      ]
+    }
+  },
+  {
+    "groupName": "กลุ่มวิสาหกิจชุมชนสมุนไพรบ้านคลองสิบสาม",
+    "contactName": "ธนวรรณ กันกาญจนะ",
+    "phoneNumber": "0902929059",
+    "lineID": "0902929059",
+    "address": "55/1 หมู่3",
+    "subdistrict": "เขาสามสิบ",
+    "district": "เขาฉกรรจ์",
+    "province": "สระแก้ว",
+    "postalCode": "27000",
+    "affiliation": "เป็นสมาชิกกลุ่มกิจกรรมหรือกลุ่มวิสาหกิจ",
+    "groupOperations": "ผู้ปลูก",
+    "enterpriseHistory": "วิสาหกิจชุมชนสมุนไพรบ้านคลองสิบสาม ก่อตั้งเมื่อ 17 เมษายน 2562 เพื่อปลูกและเป็นแหล่งรับซื้อสมุนไพรจากสมาชิก",
+    "membershipAndOrganization": "-",
+    "qualitycontrol": "-",
+    "groupLocation": "55/1 หมู่3 ต.เขาสามสิบ อ.เขาฉกรรจ์ จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "1 - 6 ชนิด",
+    "soldThroughLocal": "มี",
+    "soldThroughOnline": "ไม่มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+    },
+    "herbsType1": {
+      "herbs": [
+        {
+          "herbName": "ขมิ้นชัน",
+          "certification": "SDGsPGS, Organic Thailand",
+          "herbPlanting": "4/25/2022",
+          "herbHarvest": "4/30/2023",
+          "areaSize": "2 ไร่",
+          "yield": "3,000 (กิโลกรัม)",
+          "pricePerKg": "10 (บาท/กิโลกรัม)",
+          "incomePerKg": "30,000 (บาท/กิโลกรัม)",
+          "buyer": "-",
+          "productionCost": "-",
+          "problems": "-"
+        }
+      ]
+    },
+    "herbsType2": {
+      "herbs": [
+        {
+          "herbName": "เพชรสังฆาต",
+          "certification": "SDGsPGS, Organic Thailand",
+          "herbPlanting": "12/15/2022",
+          "herbHarvest": "8/20/2024",
+          "areaSize": "4 ไร่",
+          "yield": "3,000 (กิโลกรัม)",
+          "pricePerKg": "10 (บาท/กิโลกรัม)",
+          "incomePerKg": "30,000 (บาท/กิโลกรัม)",
+          "buyer": "-",
+          "productionCost": "-",
+          "problems": "-"
+        }
+      ]
+    },
+    "herbsType3": {
+      "herbs": [
+        {
+          "herbName": "บัวบก",
+          "certification": "SDGsPGS, Organic Thailand",
+          "herbPlanting": "12/20/2022",
+          "herbHarvest": "3/15/2023",
+          "areaSize": "4 ไร่",
+          "yield": "1,000 (กิโลกรัม)",
+          "pricePerKg": "-",
+          "incomePerKg": "-",
+          "buyer": "-",
+          "productionCost": "-",
+          "problems": "-"
+        }
+      ]
+    },
+    "herbsType4": {
+      "herbs": [
+        {
+          "herbName": "กระชายดำ",
+          "certification": "อยู่ในระยะปรับเปลี่ยนของมาตรฐาน",
+          "herbPlanting": "6/1/2023",
+          "herbHarvest": "2/1/2024",
+          "areaSize": "1 งาน",
+          "yield": "-",
+          "pricePerKg": "-",
+          "incomePerKg": "-",
+          "buyer": "-",
+          "productionCost": "-",
+          "problems": "-"
+        }
+      ]
+    },
+    "herbsType5": {
+      "herbs": [
+        {
+          "herbName": "ใบเตย",
+          "certification": "อยู่ในระยะปรับเปลี่ยนของมาตรฐาน",
+          "herbPlanting": "-",
+          "herbHarvest": "-",
+          "areaSize": "1 งาน",
+          "yield": "-",
+          "pricePerKg": "-",
+          "incomePerKg": "-",
+          "buyer": "-",
+          "productionCost": "-",
+          "problems": "-"
+        }
+      ]
+    }
+  },
+  {
+    "groupName": "บ้านเขาสามสิบ",
+    "contactName": "อ้น นักบุญ",
+    "phoneNumber": "0970632718",
+    "lineID": "-",
+    "address": "295 ม.13",
+    "subdistrict": "เขาสามสิบ",
+    "district": "เขาฉกรรจ์",
+    "province": "สระแก้ว",
+    "postalCode": "27000",
+    "affiliation": "เป็นสมาชิกกลุ่มกิจกรรมหรือกลุ่มวิสาหกิจ",
+    "groupOperations": "ผู้ปลูก",
+    "enterpriseHistory": "แต่ก่อนทำนา 15ไร่ แล้วไปทำงานอยู่กรุงเทพ แต่พออายุมากขึ้นแล้วจึงกลับมาอยู่บ้าน พี่วรรณแนะนำให้มาปลูกสมุนไพรบอกว่ามันดี เลยลองปลูกดูแลจริงๆ ปลุมะระขี้นกได้มา 4ปี ฟ้าทลายโจร,ดพชรสังฆาต พึ่งเริ่มมาได้ 6-7 เดือน",
+    "membershipAndOrganization": "เหมือนป้าวรรณ",
+    "qualitycontrol": "เข้าตรวจมาตรฐานของSDGsPGS และ Organic Thailand",
+    "groupLocation": "ต.เขาสามสิบ อ.เขาฉกรรจ์ จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "1 - 3 ชนิด",
+    "soldThroughLocal": "มี",
+    "soldThroughOnline": "ไม่มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+    },
+    "herbsType1": {
+      "herbs": [
+        {
+          "herbName": "มะระขี้นก",
+          "certification": "SDGsPGS, Organic Thailand",
+          "herbPlanting": "2/1/2023",
+          "herbHarvest": "4/10/2023",
+          "areaSize": "2 ไร่",
+          "yield": "9,000 (กิโลกรัม)",
+          "pricePerKg": "20 (บาท/กิโลกรัม)",
+          "incomePerKg": "-",
+          "buyer": "ศุนย์วิสาหกิจชุมชนในจังหวัด",
+          "productionCost": "10,000-20,000 (บาท/ไร่)",
+          "problems": "แมลง หนอนที่มารบกวนสมุนไพร ต้องการกำจัดแมลงต่างๆเกี่ยวกับสมุนไพรชนิดอื่นๆ"
+        }
+      ]
+    },
+    "herbsType2": {
+      "herbs": [
+        {
+          "herbName": "เพชรสังฆาต",
+          "certification": "SDGsPGS, Organic Thailand",
+          "herbPlanting": "-",
+          "herbHarvest": "-",
+          "areaSize": "-",
+          "yield": "-",
+          "pricePerKg": "-",
+          "incomePerKg": "-",
+          "buyer": "-",
+          "productionCost": "-",
+          "problems": "-"
+        }
+      ]
+    },
+    "herbsType3": {
+      "herbs": [
+        {
+          "herbName": "ฟ้าทะลายโจร",
+          "certification": "SDGsPGS, Organic Thailand",
+          "herbPlanting": "-",
+          "herbHarvest": "-",
+          "areaSize": "-",
+          "yield": "-",
+          "pricePerKg": "-",
+          "incomePerKg": "-",
+          "buyer": "-",
+          "productionCost": "-",
+          "problems": "-"
+        }
+      ]
+    }
+  },
+  {
+    "groupName": "วิสาหกิจชุมชนสมุนไพรบ้านคลองสิบสาม",
+    "contactName": "แดง โสมาศรี",
+    "phoneNumber": "0886632015",
+    "lineID": "-",
+    "address": "132/1 ม.13",
+    "subdistrict": "เขาสามสิบ",
+    "district": "เขาฉกรรจ์",
+    "province": "สระแก้ว",
+    "postalCode": "27000",
+    "affiliation": "เป็นสมาชิกกลุ่มกิจกรรมหรือกลุ่มวิสาหกิจ",
+    "groupOperations": "ผู้ปลูก",
+    "enterpriseHistory": "วิสาหกิจชุมชนสมุนไพรคลองสามสิบ",
+    "membershipAndOrganization": "กลุ่มวิสาหกิจชุมชนบ้านคลองสิบสาม",
+    "qualitycontrol": "อยู่ในระบบปรับเปลี่ยนมาตรฐาน,ปลุกในรูปแบบเกษตรอินทร์",
+    "groupLocation": "55/1 ม.3 ต.เขาสามสิบ อ.เขาฉกรรจ์ จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "1 - 3 ชนิด",
+    "soldThroughLocal": "มี",
+    "soldThroughOnline": "ไม่มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+    },
+    "herbsType1": {
+      "herbs": [
+        {
+          "herbName": "มะระขี้นก",
+          "certification": "SDGsPGS, Organic Thailand",
+          "herbPlanting": "2/1/2023",
+          "herbHarvest": "4/10/2023",
+          "areaSize": "2 ไร่",
+          "yield": "9,000 (กิโลกรัม)",
+          "pricePerKg": "20 (บาท/กิโลกรัม)",
+          "incomePerKg": "-",
+          "buyer": "ศุนย์วิสาหกิจชุมชนในจังหวัด",
+          "productionCost": "10,000-20,000 (บาท/ไร่)",
+          "problems": "แมลง หนอนที่มารบกวนสมุนไพร ต้องการกำจัดแมลงต่างๆเกี่ยวกับสมุนไพรชนิดอื่นๆ"
+        }
+      ]
+    },
+    "herbsType2": {
+      "herbs": [
+        {
+          "herbName": "เพชรสังฆาต",
+          "certification": "อยู่ในระยะปรับเปลี่ยนของมาตรฐาน",
+          "herbPlanting": "1/10/2023",
+          "herbHarvest": "3/5/2023",
+          "areaSize": "1 ไร่",
+          "yield": "2,000  (กิโลกรัม)",
+          "pricePerKg": "20 (บาท/กิโลกรัม)",
+          "incomePerKg": "40,000 (บาท/กิโลกรัม)",
+          "buyer": "วิสาหกิจชุมชนสมุนไพรบ้านคลองสิบสาม",
+          "productionCost": "10,000 (บาท/ไร่)",
+          "problems": "เชื้อราในดิน แมลงวันทอง"
+        }
+      ]
+    },
+    "herbsType3": {
+      "herbs": [
+        {
+          "herbName": "บัวบก",
+          "certification": "",
+          "herbPlanting": "-",
+          "herbHarvest": "-",
+          "areaSize": "-",
+          "yield": "-",
+          "pricePerKg": "-",
+          "incomePerKg": "-",
+          "buyer": "-",
+          "productionCost": "-",
+          "problems": "-"
+        }
+      ]
+    }
+  },
+  {
+    "groupName": "แปลง ชาช่า การ์เด้น",
+    "contactName": "ขวัญใจ เหลี่อมรุ่ง",
+    "phoneNumber": "0801063266",
+    "lineID": "chacha garden",
+    "address": "254 ม.3",
+    "subdistrict": "เขาสามสิบ",
+    "district": "เขาฉกรรจ์",
+    "province": "สระแก้ว",
+    "postalCode": "27000",
+    "affiliation": "เป็นสมาชิกกลุ่มกิจกรรมหรือกลุ่มวิสาหกิจ",
+    "groupOperations": "ผู้ปลูก",
+    "enterpriseHistory": "-",
+    "membershipAndOrganization": "-",
+    "qualitycontrol": "ไม่ใช้สารเคมีในพื้นที่ ขมิ้นชันหัวแก่(ใบโทรม)",
+    "groupLocation": "55/1 ม.3 ต.เขาสามสิบ อ.เขาฉกรรจ์ จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "1 - 3 ชนิด",
+    "soldThroughLocal": "ไม่มี",
+    "soldThroughOnline": "มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+    },
+    "herbsType1": {
+      "herbs": [
+        {
+          "herbName": "ขมิ้นชัน",
+          "certification": "SDGsPGS",
+          "herbPlanting": "5/1/2023",
+          "herbHarvest": "2/1/2024",
+          "areaSize": "0.2 ไร่",
+          "yield": "0 (กิโลกรัม)",
+          "pricePerKg": "0 (บาท/กิโลกรัม)",
+          "incomePerKg": "0",
+          "buyer": " -",
+          "productionCost": "3,000 (บาท/ไร่)",
+          "problems": "อุปกรณ์แปรรูปชั้นต้น(ตากแห้ง)"
+        }
+      ]
+    }
+  },
+  {
+    "groupName": "บ้านคลองสิบสาม",
+    "contactName": "เข็นพร บุบผาอาจ",
+    "phoneNumber": "0870551894",
+    "lineID": "-",
+    "address": "124 ม.4 ",
+    "subdistrict": "เขาสามสิบ",
+    "district": "เขาฉกรรจ์",
+    "province": "สระแก้ว",
+    "postalCode": "27000",
+    "affiliation": "เป็นสมาชิกกลุ่มกิจกรรมหรือกลุ่มวิสาหกิจ",
+    "groupOperations": "ผู้ปลูก",
+    "enterpriseHistory": "พึ่งเริ่มปลูกเดือน มิถุนายน 2566 เพื่อจำหน่าย",
+    "membershipAndOrganization": "-",
+    "qualitycontrol": "ไม่ใช้สารเคมี",
+    "groupLocation": "ม.บ้านคลองสิบสาม ต.เขาสามสิบ อ.เขาฉกรรจ์ จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "1 - 3 ชนิด",
+    "soldThroughLocal": "มี",
+    "soldThroughOnline": "ไม่มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+    },
+    "herbsType1": {
+      "herbs": [
+        {
+          "herbName": "เพชรสังฆาต",
+          "certification": "Organic Thailand",
+          "herbPlanting": "6/1/2023",
+          "herbHarvest": "2/1/2024",
+          "areaSize": "1 ไร่",
+          "yield": "พึ่งเริ่มปลูก",
+          "pricePerKg": "-",
+          "incomePerKg": "-",
+          "buyer": " -",
+          "productionCost": "ต้นพันธุ์รับจากวิสาหกิจไม่มีค่าใช้จ่าย",
+          "problems": "ฝนไม่ตกตามฤดูกาล"
+        }
+      ]
+    }
+  },
+  {
+    "groupName": "ชุมชนบ้านคลองสิบสาม",
+    "contactName": "เข็นพร บุบผาอาจ",
+    "phoneNumber": "0870551894",
+    "lineID": "-",
+    "address": "124 ม.4 ",
+    "subdistrict": "เขาสามสิบ",
+    "district": "เขาฉกรรจ์",
+    "province": "สระแก้ว",
+    "postalCode": "27000",
+    "affiliation": "เป็นสมาชิกกลุ่มกิจกรรมหรือกลุ่มวิสาหกิจ",
+    "groupOperations": "ผู้ปลูก",
+    "enterpriseHistory": "พึ่งเริ่มปลูกเดือน มิถุนายน 2566 เพื่อจำหน่าย",
+    "membershipAndOrganization": "-",
+    "qualitycontrol": "ไม่ใช้สารเคมี",
+    "groupLocation": "ม.บ้านคลองสิบสาม ต.เขาสามสิบ อ.เขาฉกรรจ์ จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "1 - 3 ชนิด",
+    "soldThroughLocal": "มี",
+    "soldThroughOnline": "ไม่มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+    },
+    "herbsType1": {
+      "herbs": [
+        {
+          "herbName": "เพชรสังฆาต",
+          "certification": "Organic Thailand",
+          "herbPlanting": "6/1/2023",
+          "herbHarvest": "2/1/2024",
+          "areaSize": "1 ไร่",
+          "yield": "พึ่งเริ่มปลูก",
+          "pricePerKg": "-",
+          "incomePerKg": "-",
+          "buyer": " -",
+          "productionCost": "ต้นพันธุ์รับจากวิสาหกิจไม่มีค่าใช้จ่าย",
+          "problems": "ฝนไม่ตกตามฤดูกาล"
+        }
+      ]
+    }
+  },
+  {
+    "groupName": "ชุมชนบ้านคลองสิบสาม",
+    "contactName": "พวกรัตน์ แก้วหิน",
+    "phoneNumber": "0644682087",
+    "lineID": "-",
+    "address": "123 ม.4 บ้านคลองธรรมชาติ",
+    "subdistrict": "หนองหว้า",
+    "district": "เขาฉกรรจ์",
+    "province": "สระแก้ว",
+    "postalCode": "27000",
+    "affiliation": "เป็นสมาชิกกลุ่มกิจกรรมหรือกลุ่มวิสาหกิจ",
+    "groupOperations": "ผู้ปลูก",
+    "enterpriseHistory": "เป็นพื้นที่ของ สำนักปฏิบัติธรรม ต้องการใช้พื้นที่ปลูกพืชให้เกิดประโยชน์สูงสุดของชุมชน เห็นร่วมกันว่า ควรปลูก สมุนไพร",
+    "membershipAndOrganization": "10 คน",
+    "qualitycontrol": "ใช้มาตรฐานรับรองตามกลุ่มวิสาหกิจบ้านคลองสิบสาม",
+    "groupLocation": "ต.เขาสามสิบ อ.เขาฉกรรจ์ จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "1 - 3 ชนิด",
+    "soldThroughLocal": "มี",
+    "soldThroughOnline": "ไม่มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+    },
+    "herbsType1": {
+      "herbs": [
+        {
+          "herbName": "ตะไคร้",
+          "certification": "อยู่ในระยะปรับเปลี่ยนของมาตรฐาน",
+          "herbPlanting": "7/1/2022",
+          "herbHarvest": "7/1/2023",
+          "areaSize": "1 ไร่",
+          "yield": "-",
+          "pricePerKg": "10-15 (บาท/กิโลกรัม)",
+          "incomePerKg": "-",
+          "buyer": " -",
+          "productionCost": "20,000/ต่อไร่",
+          "problems": "ระบบน้ำไม่สะดวก ขาดแคลนน้ำในฤดูแล้ง"
+        }
+      ]
+    },
+    "herbsType2": {
+      "herbs": [
+        {
+          "herbName": "อื่นๆ",
+          "certification": "อยู่ในระยะปรับเปลี่ยนของมาตรฐาน",
+          "herbPlanting": "-",
+          "herbHarvest": "-",
+          "areaSize": "-",
+          "yield": "-",
+          "pricePerKg": "30 (บาท/กิโลกรัม)",
+          "incomePerKg": "-",
+          "buyer": "-",
+          "productionCost": "-",
+          "problems": "ระบบน้ำไม่สะดวก ขาดแคลนน้ำในฤดูแล้ง"
+        }
+      ]
+    }
+  },
+  {
+    "groupName": "วิสาหกิจชุมชนบ้านคลองสิบสาม",
+    "contactName": "สุวิจักขณ์ พิพิจวขค์",
+    "phoneNumber": "0985291655",
+    "lineID": "0985291655",
+    "address": "135 ม.13",
+    "subdistrict": "เขาสามสิบ",
+    "district": "เขาฉกรรจ์",
+    "province": "สระแก้ว",
+    "postalCode": "27000",
+    "affiliation": "เป็นสมาชิกกลุ่มกิจกรรมหรือกลุ่มวิสาหกิจ",
+    "groupOperations": "ผู้ปลูก",
+    "enterpriseHistory": "ปลูกตะไตร้,ใบมะกรุดขาย มาซื้อที่ดินต่อ ทำงานบริษัทผันตัวเองมาทำสวนสมุนไพร (เคยทำงานฟาร์มออแกนิค)",
+    "membershipAndOrganization": "-",
+    "qualitycontrol": "GAP (ถ้าผลผลิตออกจะเริ่มขออนุญาตได้)",
+    "groupLocation": "55/1 ม.3 ต.เขาสามสิบ อ.เขาฉกรรจ์ จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "1 - 3 ชนิด",
+    "soldThroughLocal": "มี",
+    "soldThroughOnline": "ไม่มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+    },
+    "herbsType1": {
+      "herbs": [
+        {
+          "herbName": "กระท่อม",
+          "certification": "อื่นๆ",
+          "herbPlanting": "8/18/2022",
+          "herbHarvest": "8/18/2023",
+          "areaSize": "4 ไร่",
+          "yield": "ยังไม่เก็บ",
+          "pricePerKg": "200 (บาท/กิโลกรัม)",
+          "incomePerKg": "-",
+          "buyer": " บ.เอสที เอ็กเท็กซ์ จก.",
+          "productionCost": "ค่าไถ 4,000 ",
+          "problems": "ปัญหาเรื่องการกำหนดมาตรฐาน อย.ที่ทำให้การซื้อขายชะงัก"
+        }
+      ]
+    },
+    "herbsType2": {
+      "herbs": [
+        {
+          "herbName": "เพชรสังฆาต",
+          "certification": "อื่นๆ",
+          "herbPlanting": "8/18/2022",
+          "herbHarvest": "8/18/2023",
+          "areaSize": "-",
+          "yield": "ยังไม่ได้เก็บ",
+          "pricePerKg": "10 (บาท/กิโลกรัม)",
+          "incomePerKg": "-",
+          "buyer": "วิสาหกิจชุมชนบ้านคลองสิบสาม",
+          "productionCost": "-",
+          "problems": "ระบบน้ำไม่สะดวก ขาดแคลนน้ำในฤดูแล้ง"
+        }
+      ]
+    }
+  },
+  {
+    "groupName": "ชุมชนบ้านคลองสิบสาม ต.เขาสามสิบ",
+    "contactName": "นางประนอม",
+    "phoneNumber": "0811526114",
+    "lineID": "-",
+    "address": "201 ม.4 บ้านคลองธรรมชาติ",
+    "subdistrict": "เขาสามสิบ",
+    "district": "เขาฉกรรจ์",
+    "province": "สระแก้ว",
+    "postalCode": "27000",
+    "affiliation": "ไม่สังกัดหรือไม่เป็นสมาชิกกลุ่มใด",
+    "groupOperations": "ผู้ปลูก",
+    "enterpriseHistory": "แต่ก่อนทำสวน ทำไร่ ปลูกมันสำปะหลัง อ้อย ข้าว เลยอยากลองเปลี่ยนมาปลูกพืชสมุนไพร",
+    "membershipAndOrganization": "2 คน",
+    "qualitycontrol": "ยังไม่ลงมือปลูก",
+    "groupLocation": "ต.เขาสามสิบ อ.เขาฉกรรจ์ จ.สระแก้ว",
+    "img": [
+      "https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/EnterprisePicture%2Fhut7_0.jpg?alt=media&token=8f939791-8411-4bfb-ab77-dafc23a5e73c"
+    ],
+    "herbTypesCount": "1 - 3 ชนิด",
+    "soldThroughLocal": "ไม่มี",
+    "soldThroughOnline": "ไม่มี",
+    "exportSales": "ไม่มี",
+    "CreatingAgreementsPrices": "ไม่มี",
+    "herbsTypes": {
+    },
+    "herbsType1": {
+      "herbs": [
+        {
+          "herbName": "ตะไคร้",
+          "certification": "ยังไม่ได้รับมาตรฐานใดๆ",
+          "herbPlanting": "6/15/2023",
+          "herbHarvest": "8/1/2023",
+          "areaSize": "1 ไร่",
+          "yield": "ยังไม่ได้ปลูก เริ่มเตรียมพื้นที่ เตรียมดิน",
+          "pricePerKg": "ยังไม่ทราบ",
+          "incomePerKg": "ยังไม่ทราบ",
+          "buyer": "ยังไม่ทราบ",
+          "productionCost": "5,000 บาท",
+          "problems": "ไม่มี"
+        }
+      ]
+    },
+    "herbsType2": {
+      "herbs": [
+        {
+          "herbName": "กระชายขาว",
+          "certification": "ยังไม่ได้รับมาตรฐานใดๆ",
+          "herbPlanting": "6/15/2023",
+          "herbHarvest": "8/15/2023",
+          "areaSize": "1 ไร่",
+          "yield": "ยังไม่ได้ปลูกำลังเตรียมดินเตรียมพื้นที่",
+          "pricePerKg": "ยังไม่ทราบ",
+          "incomePerKg": "ยังไม่ทราบ",
+          "buyer": "ยังไม่ทราบ",
+          "productionCost": "5,000บาท",
+          "problems": "ไม่มี"
+        }
+      ]
+    }
+  }
+]

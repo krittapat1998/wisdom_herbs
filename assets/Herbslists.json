@@ -1,0 +1,1118 @@
+[
+    {
+      "namethai": "ฟ้าทะลายโจร",
+      "scientificName": "Andrographis paniculata",
+      "localName": "หญ้ากันงู",
+      "familyName": "Acanthaceae",
+      "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/HerbsPicture%2F%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%88%E0%B8%A31.jpg?alt=media&token=374d7a04-b48e-4fc3-a934-5ec8d720969d","https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/HerbsPicture%2F%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%88%E0%B8%A32.jpg?alt=media&token=07a652e9-3dce-4f1b-88ca-d871cbd1d21a","https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/HerbsPicture%2F%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%88%E0%B8%A33.jpg?alt=media&token=df7966b1-aa79-4ee4-9294-9d7e3ab0b0aa"],
+      "paragraphs": {
+        "Paragraph1": {
+          "header1": {
+            "headerBold": true,
+            "headerColor": "#008000",
+            "headerText": "ต้น",
+            "subHeaders": {
+              "subHeader1": {
+                "subHeadBold": false,
+                "subHeadColor": "#000000",
+                "subHeadText": "- ฟ้าทะลายโจรเป็นไม้ล้มลุก สูงประมาณ 30-60 เซนติเมตร ลำต้นเป็นสี่เหลี่ยม ใบเดี่ยว รูปรีแกมขอบขนาน สีเขียวเข้ม"
+              }
+            }
+          },
+          "header2": {
+            "headerBold": true,
+            "headerColor": "#008000",
+            "headerText": "ใบ",
+            "subHeaders": {
+              "subHeader1": {
+                "subHeadBold": false,
+                "subHeadColor": "#000000",
+                "subHeadText": "- ใบเดี่ยว รูปรีแกมขอบขนาน ขนาด 2-3 เซนติเมตร"
+              },
+              "subHeader2": {
+                "subHeadBold": false,
+                "subHeadColor": "#000000",
+                "subHeadText": "- ใบมีสีเขียวเข้ม ผิวใบเรียบ"
+              }
+            }
+          },
+          "header3": {
+            "headerBold": true,
+            "headerColor": "#008000",
+            "headerText": "ผล",
+            "subHeaders": {
+              "subHeader1": {
+                "subHeadBold": false,
+                "subHeadColor": "#000000",
+                "subHeadText": "- ผลเป็นฝักสีเขียว เมื่อแก่เป็นสีน้ำตาล เมล็ดมีสีเหลืองอ่อน"
+              }
+            }
+          },  
+          "header4": {
+            "headerBold": true,
+            "headerColor": "#008000",
+            "headerText": "ดอก",
+            "subHeaders": {
+              "subHeader1": {
+                "subHeadBold": false,
+                "subHeadColor": "#000000",
+                "subHeadText": "- ดอกออกเป็นช่อที่ปลายยอดและตามกิ่งก้าน"
+              }
+            }
+          }
+        },
+        "Paragraph2": {
+          "header1": {
+            "headerBold": true,
+            "headerColor": "#000000",
+            "headerText": "มีสาร Andrographolide ที่ช่วยลดไข้ แก้อักเสบ"
+          }
+        },
+        "Paragraph3": {
+          "header1": {
+            "headerBold": false,
+            "headerColor": "#000000",
+            "headerText": "ใช้ทำเป็นชาชง หรือนำมาทำเป็นยาสมุนไพร"
+          },
+          "header2": {
+            "headerBold": false,
+            "headerColor": "#000000",
+            "headerText": "สามารถใช้รักษาโรคได้หลายชนิด"
+          }
+        },
+        "Paragraph4": {
+          "header1": {
+            "headerBold": false,
+            "headerColor": "#000000",
+            "headerText": "ไม่ควรใช้ในปริมาณมากเกินไป อาจเกิดผลข้างเคียง ควรปรึกษาแพทย์ก่อนใช้ในผู้ป่วยที่มีโรคประจำตัว"
+          }
+        }
+      }
+    },
+      {
+        "namethai": "กระชาย",
+        "scientificName": "Boesenbergia rotunda",
+        "localName": "ขิงจีน",
+        "familyName": "Zingiberaceae",
+        "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+        "paragraphs": {
+          "Paragraph1": {
+            "header1": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ต้น",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- กระชายเป็นไม้ล้มลุก สูงประมาณ 30-50 เซนติเมตร ลำต้นใต้ดินเป็นหัวกลม"
+                }
+              }
+            },
+            "header2": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ใบ",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ใบเดี่ยว รูปใบหอก ยาว 20-30 เซนติเมตร"
+                }
+              }
+            },
+            "header3": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ดอก",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ดอกออกเป็นช่อที่ปลายยอด สีขาว"
+                }
+              }
+            }
+          },
+          "Paragraph2": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "มีสาร panduratin ที่ช่วยต้านเชื้อแบคทีเรียและไวรัส"
+            }
+          },
+          "Paragraph3": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ใช้เป็นส่วนผสมในอาหารและยาสมุนไพร ช่วยบำรุงร่างกายและกระตุ้นระบบย่อยอาหาร"
+            }
+          },
+          "Paragraph4": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ไม่ควรใช้ในปริมาณมากเกินไป ควรปรึกษาแพทย์ก่อนใช้"
+            }
+          }
+        }
+      },
+      {
+        "namethai": "ขมิ้นชัน",
+        "scientificName": "Curcuma longa",
+        "localName": "ขมิ้นแกง",
+        "familyName": "Zingiberaceae",
+        "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+        "paragraphs": {
+          "Paragraph1": {
+            "header1": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ต้น",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ขมิ้นชันเป็นไม้ล้มลุก สูงประมาณ 50-100 เซนติเมตร ลำต้นใต้ดินเป็นเหง้า"
+                }
+              }
+            },
+            "header2": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ใบ",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ใบเดี่ยว รูปใบหอก ยาว 30-50 เซนติเมตร"
+                }
+              }
+            },
+            "header3": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ดอก",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ดอกออกเป็นช่อที่ปลายยอด สีเหลือง"
+                }
+              }
+            }
+          },
+          "Paragraph2": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "มีสาร curcumin ที่ช่วยต้านการอักเสบและต้านอนุมูลอิสระ"
+            }
+          },
+          "Paragraph3": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ใช้เป็นส่วนผสมในอาหารและยาสมุนไพร ช่วยบำรุงผิวพรรณและรักษาโรคกระเพาะอาหาร"
+            }
+          },
+          "Paragraph4": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ไม่ควรใช้ในปริมาณมากเกินไป ควรปรึกษาแพทย์ก่อนใช้"
+            }
+          }
+        }
+      },
+      {
+        "namethai": "ขิง",
+        "scientificName": "Zingiber officinale",
+        "localName": "ขิงแครง",
+        "familyName": "Zingiberaceae",
+        "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+        "paragraphs": {
+          "Paragraph1": {
+            "header1": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ต้น",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ขิงเป็นไม้ล้มลุก สูงประมาณ 60-90 เซนติเมตร ลำต้นใต้ดินเป็นเหง้า"
+                }
+              }
+            },
+            "header2": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ใบ",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ใบเดี่ยว รูปใบหอก ยาว 15-30 เซนติเมตร"
+                }
+              }
+            },
+            "header3": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ดอก",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ดอกออกเป็นช่อที่ปลายยอด สีขาว"
+                }
+              }
+            }
+          },
+          "Paragraph2": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "มีสาร gingerol ที่ช่วยลดการอักเสบและต้านอนุมูลอิสระ"
+            }
+          },
+          "Paragraph3": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ใช้เป็นส่วนผสมในอาหารและยาสมุนไพร ช่วยบำรุงร่างกายและบรรเทาอาการท้องอืด"
+            }
+          },
+          "Paragraph4": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ไม่ควรใช้ในปริมาณมากเกินไป ควรปรึกษาแพทย์ก่อนใช้"
+            }
+          }
+        }
+      },
+      {
+        "namethai": "ตะไคร้",
+        "scientificName": "Cymbopogon citratus",
+        "localName": "หญ้าตะไคร้",
+        "familyName": "Poaceae",
+        "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+        "paragraphs": {
+          "Paragraph1": {
+            "header1": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ต้น",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ตะไคร้เป็นไม้ล้มลุก สูงประมาณ 1-2 เมตร ลำต้นเป็นกอ"
+                }
+              }
+            },
+            "header2": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ใบ",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ใบเดี่ยว รูปใบหอก ยาว 30-50 เซนติเมตร"
+                }
+              }
+            },
+            "header3": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ดอก",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ดอกออกเป็นช่อที่ปลายยอด สีขาว"
+                }
+              }
+            }
+          },
+          "Paragraph2": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "มีสาร citral ที่ช่วยต้านเชื้อแบคทีเรียและลดการอักเสบ"
+            }
+          },
+          "Paragraph3": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ใช้เป็นส่วนผสมในอาหารและน้ำหอม ช่วยบำรุงร่างกายและบรรเทาอาการท้องอืด"
+            }
+          },
+          "Paragraph4": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ไม่ควรใช้ในปริมาณมากเกินไป ควรปรึกษาแพทย์ก่อนใช้"
+            }
+          }
+        }
+      },
+      {
+        "namethai": "ใบกระเพรา",
+        "scientificName": "Ocimum tenuiflorum",
+        "localName": "กระเพราแดง",
+        "familyName": "Lamiaceae",
+        "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+        "paragraphs": {
+          "Paragraph1": {
+            "header1": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ต้น",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ใบกระเพราเป็นไม้ล้มลุก สูงประมาณ 30-60 เซนติเมตร"
+                }
+              }
+            },
+            "header2": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ใบ",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ใบเดี่ยว รูปใบหอก ยาว 5-10 เซนติเมตร"
+                }
+              }
+            },
+            "header3": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ดอก",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ดอกออกเป็นช่อที่ปลายยอด สีม่วง"
+                }
+              }
+            }
+          },
+          "Paragraph2": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "มีสาร eugenol ที่ช่วยลดการอักเสบและต้านอนุมูลอิสระ"
+            }
+          },
+          "Paragraph3": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ใช้เป็นส่วนผสมในอาหารและยาสมุนไพร ช่วยบำรุงร่างกายและบรรเทาอาการท้องอืด"
+            }
+          },
+          "Paragraph4": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ไม่ควรใช้ในปริมาณมากเกินไป ควรปรึกษาแพทย์ก่อนใช้"
+            }
+          }
+        }
+      },
+      {
+        "namethai": "ใบย่านาง",
+        "scientificName": "Tiliacora triandra",
+        "localName": "ย่านาง",
+        "familyName": "Menispermaceae",
+        "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+        "paragraphs": {
+          "Paragraph1": {
+            "header1": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ต้น",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ใบย่านางเป็นไม้เลื้อย ยาวประมาณ 3-5 เมตร"
+                }
+              }
+            },
+            "header2": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ใบ",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ใบเดี่ยว รูปไข่ ยาว 5-10 เซนติเมตร"
+                }
+              }
+            },
+            "header3": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ดอก",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ดอกออกเป็นช่อที่ปลายยอด สีเหลือง"
+                }
+              }
+            }
+          },
+          "Paragraph2": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "มีสาร flavonoids ที่ช่วยต้านอนุมูลอิสระและลดการอักเสบ"
+            }
+          },
+          "Paragraph3": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ใช้เป็นส่วนผสมในอาหารและยาสมุนไพร ช่วยบำรุงร่างกายและบรรเทาอาการท้องอืด"
+            }
+          },
+          "Paragraph4": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ไม่ควรใช้ในปริมาณมากเกินไป ควรปรึกษาแพทย์ก่อนใช้"
+            }
+          }
+        }
+      },
+      {
+        "namethai": "ว่านหางจระเข้",
+        "scientificName": "Aloe vera",
+        "localName": "ว่านหาง",
+        "familyName": "Asphodelaceae",
+        "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+        "paragraphs": {
+          "Paragraph1": {
+            "header1": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ต้น",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ว่านหางจระเข้เป็นไม้ล้มลุก สูงประมาณ 30-50 เซนติเมตร ลำต้นเป็นกลุ่ม"
+                }
+              }
+            },
+            "header2": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ใบ",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ใบเดี่ยว รูปใบหอก ยาว 20-30 เซนติเมตร"
+                }
+              }
+            }
+          },
+          "Paragraph2": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "มีสาร aloin ที่ช่วยรักษาบาดแผลและลดการอักเสบ"
+            }
+          },
+          "Paragraph3": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ใช้เป็นส่วนผสมในเครื่องสำอางและยาสมุนไพร ช่วยบำรุงผิวพรรณและรักษาแผล"
+            }
+          },
+          "Paragraph4": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ไม่ควรใช้ในปริมาณมากเกินไป อาจเกิดการระคายเคือง ควรปรึกษาแพทย์ก่อนใช้"
+            }
+          }
+        }
+      },
+      {
+        "namethai": "พลูคาว",
+        "scientificName": "Houttuynia cordata",
+        "localName": "ผักคาวตอง",
+        "familyName": "Saururaceae",
+        "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+        "paragraphs": {
+          "Paragraph1": {
+            "header1": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ต้น",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- พลูคาวเป็นไม้ล้มลุก สูงประมาณ 30-60 เซนติเมตร ลำต้นเป็นกลุ่ม"
+                }
+              }
+            },
+            "header2": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ใบ",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ใบเดี่ยว รูปหัวใจ ยาว 5-10 เซนติเมตร"
+                }
+              }
+            }
+          },
+          "Paragraph2": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "มีสาร quercetin ที่ช่วยต้านการอักเสบและต้านอนุมูลอิสระ"
+            }
+          },
+          "Paragraph3": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ใช้เป็นส่วนผสมในอาหารและยาสมุนไพร ช่วยบำรุงร่างกายและบรรเทาอาการท้องอืด"
+            }
+          },
+          "Paragraph4": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ไม่ควรใช้ในปริมาณมากเกินไป ควรปรึกษาแพทย์ก่อนใช้"
+            }
+          }
+        }
+      },
+      {
+        "namethai": "เพกา",
+        "scientificName": "Oroxylum indicum",
+        "localName": "ลิ้นฟ้า",
+        "familyName": "Bignoniaceae",
+        "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+        "paragraphs": {
+          "Paragraph1": {
+            "header1": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ต้น",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- เพกาเป็นไม้ยืนต้น สูงประมาณ 10-20 เมตร ลำต้นตรง"
+                }
+              }
+            },
+            "header2": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ใบ",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ใบประกอบแบบขนนก ยาว 30-50 เซนติเมตร"
+                }
+              }
+            },
+            "header3": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ดอก",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ดอกออกเป็นช่อที่ปลายยอด สีเหลือง"
+                }
+              }
+            }
+          },
+          "Paragraph2": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "มีสาร oroxylin A ที่ช่วยต้านอนุมูลอิสระและลดการอักเสบ"
+            }
+          },
+          "Paragraph3": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ใช้เป็นส่วนผสมในอาหารและยาสมุนไพร ช่วยบำรุงร่างกายและรักษาโรคต่างๆ"
+            }
+          },
+          "Paragraph4": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ไม่ควรใช้ในปริมาณมากเกินไป ควรปรึกษาแพทย์ก่อนใช้"
+            }
+          }
+        }
+      },
+      {
+        "namethai": "เตยหอม",
+        "scientificName": "Pandanus amaryllifolius",
+        "localName": "เตย",
+        "familyName": "Pandanaceae",
+        "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+        "paragraphs": {
+          "Paragraph1": {
+            "header1": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ต้น",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- เตยหอมเป็นไม้ล้มลุก สูงประมาณ 50-100 เซนติเมตร ลำต้นเป็นกลุ่ม"
+                }
+              }
+            },
+            "header2": {
+              "headerBold": true,
+              "headerColor": "#008000",
+              "headerText": "ใบ",
+              "subHeaders": {
+                "subHeader1": {
+                  "subHeadBold": false,
+                  "subHeadColor": "#000000",
+                  "subHeadText": "- ใบเดี่ยว รูปใบหอก ยาว 30-50 เซนติเมตร"
+                }
+              }
+            }
+          },
+          "Paragraph2": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "มีสาร pandanus ที่ช่วยลดการอักเสบและต้านอนุมูลอิสระ"
+            }
+          },
+          "Paragraph3": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ใช้เป็นส่วนผสมในอาหารและน้ำหอม ช่วยบำรุงร่างกายและบรรเทาอาการท้องอืด"
+            }
+          },
+          "Paragraph4": {
+            "header1": {
+              "headerBold": false,
+              "headerColor": "#000000",
+              "headerText": "ไม่ควรใช้ในปริมาณมากเกินไป ควรปรึกษาแพทย์ก่อนใช้"
+            }
+          }
+        }
+      },
+        {
+          "namethai": "ฟ้าทะลายโจร",
+          "scientificName": "Andrographis paniculata",
+          "localName": "หญ้ากันงู",
+          "familyName": "Acanthaceae",
+          "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+          "paragraphs": {
+            "Paragraph1": {
+              "header1": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ต้น",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ฟ้าทะลายโจรเป็นไม้ล้มลุก สูงประมาณ 30-60 เซนติเมตร ลำต้นเป็นสี่เหลี่ยม ใบเดี่ยว รูปรีแกมขอบขนาน สีเขียวเข้ม"
+                  }
+                }
+              },
+              "header2": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ใบ",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ใบเดี่ยว รูปรีแกมขอบขนาน ขนาด 2-3 เซนติเมตร"
+                  },
+                  "subHeader2": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ใบมีสีเขียวเข้ม ผิวใบเรียบ"
+                  }
+                }
+              },
+              "header3": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ผล",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ผลเป็นฝักสีเขียว เมื่อแก่เป็นสีน้ำตาล เมล็ดมีสีเหลืองอ่อน"
+                  }
+                }
+              },
+              "header4": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ดอก",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ดอกออกเป็นช่อที่ปลายยอดและตามกิ่งก้าน"
+                  }
+                }
+              }
+            },
+            "Paragraph2": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "มีสาร Andrographolide ที่ช่วยลดไข้ แก้อักเสบ"
+              }
+            },
+            "Paragraph3": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "ใช้ทำเป็นชาชง หรือนำมาทำเป็นยาสมุนไพร สามารถใช้รักษาโรคได้หลายชนิด"
+              }
+            },
+            "Paragraph4": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "ไม่ควรใช้ในปริมาณมากเกินไป อาจเกิดผลข้างเคียง ควรปรึกษาแพทย์ก่อนใช้ในผู้ป่วยที่มีโรคประจำตัว"
+              }
+            }
+          }
+        },
+        {
+          "namethai": "มะขามป้อม",
+          "scientificName": "Phyllanthus emblica",
+          "localName": "กะล่อน",
+          "familyName": "Phyllanthaceae",
+          "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+          "paragraphs": {
+            "Paragraph1": {
+              "header1": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ต้น",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- มะขามป้อมเป็นไม้ยืนต้นขนาดกลาง สูงประมาณ 8-15 เมตร"
+                  }
+                }
+              },
+              "header2": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ใบ",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ใบเดี่ยว รูปรี ขนาดเล็ก เรียงตัวแบบขนนก"
+                  }
+                }
+              },
+              "header3": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ผล",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ผลกลม สีเขียวอ่อน มีรสเปรี้ยวฝาด"
+                  }
+                }
+              },
+              "header4": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ดอก",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ดอกออกเป็นช่อตามกิ่ง สีขาว"
+                  }
+                }
+              }
+            },
+            "Paragraph2": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "มีสารวิตามินซีสูง ช่วยต้านอนุมูลอิสระและเสริมสร้างภูมิคุ้มกัน"
+              }
+            },
+            "Paragraph3": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "ใช้ผลสดหรือแห้งเป็นส่วนผสมในยาสมุนไพร และผลิตภัณฑ์เสริมอาหาร"
+              }
+            },
+            "Paragraph4": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "ควรระมัดระวังการใช้ในผู้ที่มีปัญหาเรื่องระบบย่อยอาหาร"
+              }
+            }
+          }
+        },
+        {
+          "namethai": "มะกรูด",
+          "scientificName": "Citrus hystrix",
+          "localName": "มะขุน",
+          "familyName": "Rutaceae",
+          "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+          "paragraphs": {
+            "Paragraph1": {
+              "header1": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ต้น",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- มะกรูดเป็นไม้ยืนต้นขนาดเล็ก สูงประมาณ 2-5 เมตร"
+                  }
+                }
+              },
+              "header2": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ใบ",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ใบเดี่ยว รูปรี ขอบใบหยัก"
+                  }
+                }
+              },
+              "header3": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ผล",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ผลกลม ผิวขรุขระ สีเขียวเข้ม มีกลิ่นหอม"
+                  }
+                }
+              },
+              "header4": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ดอก",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ดอกออกเป็นช่อที่ปลายยอด สีขาว"
+                  }
+                }
+              }
+            },
+            "Paragraph2": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "น้ำมันหอมระเหยจากผลและใบช่วยลดความเครียดและบรรเทาอาการปวดหัว"
+              }
+            },
+            "Paragraph3": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "ใช้ผลและใบเป็นส่วนผสมในอาหารและน้ำมันหอมระเหย"
+              }
+            },
+            "Paragraph4": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "ควรระวังการใช้ในปริมาณมากอาจทำให้เกิดการระคายเคือง"
+              }
+            }
+          }
+        },
+        {
+          "namethai": "กะเพรา",
+          "scientificName": "Ocimum tenuiflorum",
+          "localName": "กระเพราแดง",
+          "familyName": "Lamiaceae",
+          "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+          "paragraphs": {
+            "Paragraph1": {
+              "header1": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ต้น",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- กะเพราเป็นไม้ล้มลุก สูงประมาณ 30-60 เซนติเมตร ลำต้นเป็นสี่เหลี่ยม"
+                  }
+                }
+              },
+              "header2": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ใบ",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ใบเดี่ยว รูปรี ขอบใบหยัก"
+                  }
+                }
+              },
+              "header3": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ดอก",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ดอกออกเป็นช่อที่ปลายยอด สีม่วง"
+                  }
+                }
+              }
+            },
+            "Paragraph2": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "มีสาร eugenol ที่ช่วยลดการอักเสบและต้านอนุมูลอิสระ"
+              }
+            },
+            "Paragraph3": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "ใช้เป็นส่วนผสมในอาหารและยาสมุนไพร ช่วยบำรุงร่างกายและบรรเทาอาการท้องอืด"
+              }
+            },
+            "Paragraph4": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "ไม่ควรใช้ในปริมาณมากเกินไป ควรปรึกษาแพทย์ก่อนใช้"
+              }
+            }
+          }
+        },
+        {
+          "namethai": "หญ้าปักกิ่ง",
+          "scientificName": "Murdannia loriformis",
+          "localName": "หญ้าปักกิ่ง",
+          "familyName": "Commelinaceae",
+          "img": ["https://firebasestorage.googleapis.com/v0/b/winsdom-herbs.appspot.com/o/System_image%2Ficon_image.jpg?alt=media&token=78b614c8-ae72-43bd-8d9f-6aa8f3db11e2"],
+          "paragraphs": {
+            "Paragraph1": {
+              "header1": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ต้น",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- หญ้าปักกิ่งเป็นไม้ล้มลุก สูงประมาณ 20-30 เซนติเมตร ลำต้นอวบน้ำ"
+                  }
+                }
+              },
+              "header2": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ใบ",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ใบเดี่ยว รูปใบหอก ยาว 5-10 เซนติเมตร"
+                  }
+                }
+              },
+              "header3": {
+                "headerBold": true,
+                "headerColor": "#008000",
+                "headerText": "ดอก",
+                "subHeaders": {
+                  "subHeader1": {
+                    "subHeadBold": false,
+                    "subHeadColor": "#000000",
+                    "subHeadText": "- ดอกออกเป็นช่อ สีขาว"
+                  }
+                }
+              }
+            },
+            "Paragraph2": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "มีสาร flavonoids ที่ช่วยต้านการอักเสบและต้านอนุมูลอิสระ"
+              }
+            },
+            "Paragraph3": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "ใช้เป็นส่วนผสมในยาสมุนไพร ช่วยบำรุงร่างกายและบรรเทาอาการท้องอืด"
+              }
+            },
+            "Paragraph4": {
+              "header1": {
+                "headerBold": false,
+                "headerColor": "#000000",
+                "headerText": "ควรระวังการใช้ในปริมาณมากเกินไป ควรปรึกษาแพทย์ก่อนใช้"
+              }
+            }
+          }
+        }
+  ]
+  
