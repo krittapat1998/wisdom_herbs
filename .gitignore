@@ -41,8 +41,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-BackUp/unityLibrary/
-unityLibrary/build/
-AR/Library/
-BackUp/
+# BackUp/unityLibrary/
+# unityLibrary/build/
+# AR/Library/
+# BackUp/
+/unity/
+/BackUp/
+/android/unityLibrary/
+
+
 
