@@ -7,3 +7,5 @@ scripts:
   - flutter clean
   - flutter pub get
   - flutter build apk
+  - echo "ndk.dir=$ANDROID_HOME/ndk/21.4.7075529" >> local.properties  # กำหนดเส้นทาง NDK โดยตรง
+
