@@ -11,3 +11,4 @@ scripts:
   - flutter build appbundle --debug --info
   - echo "NDK Path: $ANDROID_NDK_HOME"
   - echo "NDK Path from local.properties: $(cat local.properties | grep ndk.dir)"
+
