@@ -38,16 +38,30 @@ app.*.symbols
 app.*.map.json
 
 # Android Studio will place build artifacts here
-/android/app/debug
-/android/app/profile
-/android/app/release
-# BackUp/unityLibrary/
-# unityLibrary/build/
-# AR/Library/
-# BackUp/
-/unity/
-/BackUp/
-/android/unityLibrary/
+#เว้นไม่ให้ Git ติดตามการ update
+# Dart and Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
 
+# Build files
+build/
+android/build/
+ios/Flutter/.last_build_id
 
+# IDE files
+.idea/
 
+# Backup
+BackUp/
+
+# Unity specific
+unity/
+
+# Windows, macOS, Linux
+windows/
+macos/
+linux/
+
+# BFG Repo-Cleaner
+.bfg-report/
