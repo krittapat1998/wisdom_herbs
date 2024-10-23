@@ -65,3 +65,4 @@ linux/
 
 # BFG Repo-Cleaner
 .bfg-report/
+bfg-1.14.0.jar
