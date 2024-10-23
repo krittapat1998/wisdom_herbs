@@ -3,14 +3,11 @@ environment:
     ndk: "21.4.7075529"  # ตั้งค่าเวอร์ชัน NDK ที่ต้องการใช้
 
 scripts:
-  # - sdkmanager --install "ndk;21.4.7075529"  # คำสั่งติดตั้ง NDK
-  - sdkmanager --install "ndk;latest"
+  - sdkmanager --install "ndk;21.4.7075529"  # ติดตั้ง NDK เวอร์ชันที่ตรงกัน
+  - echo "ndk.dir=$ANDROID_SDK_ROOT/ndk/21.4.7075529" >> local.properties  # อัปเดตเส้นทาง NDK
   - flutter clean
   - flutter pub get
   - flutter build apk
-  # - echo "ndk.dir=$ANDROID_HOME/ndk/21.4.7075529" >> local.properties  # กำหนดเส้นทาง NDK โดยตรง
+  - flutter build appbundle --debug --info
   - echo "NDK Path: $ANDROID_NDK_HOME"
-  - echo "ndk.dir=$ANDROID_HOME/ndk-bundle" >> local.properties
-  - flutter build apk --stacktrace
-
-
+  - echo "NDK Path from local.properties: $(cat local.properties | grep ndk.dir)"
