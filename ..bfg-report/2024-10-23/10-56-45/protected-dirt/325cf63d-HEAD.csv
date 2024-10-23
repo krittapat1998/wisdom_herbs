@@ -1,0 +1,4 @@
+83426e0500477acea8d4388b3f37e08c5c660b6c,DELETE,regular-file,android/unityLibrary/src/main/jniLibs/arm64-v8a/libil2cpp.so,147238376,
+a9f709cf2fa24eff64cb80804a3279e1d5f0178a,DELETE,regular-file,android/unityLibrary/src/main/jniLibs/armeabi-v7a/libil2cpp.so,135709412,
+67ae6a99e95aa383b1ec3ef480ce43509a7e4ad0,DELETE,regular-file,android/unityLibrary/symbols/arm64-v8a/libil2cpp.so,282161736,
+ede389a30b7a20170e219ec7fd5f5be0ca99c9bd,DELETE,regular-file,android/unityLibrary/symbols/armeabi-v7a/libil2cpp.so,251194896,
