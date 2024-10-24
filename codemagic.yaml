@@ -13,4 +13,7 @@ workflows:
       - "flutter build apk --stacktrace"
       - sdkmanager --install "ndk-bundle"
       - echo "ndk.dir=$ANDROID_SDK_ROOT/ndk-bundle" >> local.properties
+      - sdkmanager --install "ndk;21.4.7075529"
+      - echo "ndk.dir=$ANDROID_SDK_ROOT/ndk/21.4.7075529" >> local.properties
+      - "flutter doctor"
 
