@@ -6,8 +6,11 @@ workflows:
     scripts:
       - "echo ANDROID_SDK_ROOT: $ANDROID_SDK_ROOT"
       - "sdkmanager --install ndk;$NDK_VERSION"  # ติดตั้ง NDK
-      - "echo ndk.dir=$ANDROID_SDK_ROOT/ndk/$NDK_VERSION >> local.properties"  # อัปเดตเส้นทาง NDK ใน local.properties
+      # - "echo ndk.dir=$ANDROID_SDK_ROOT/ndk/$NDK_VERSION >> local.properties"  # อัปเดตเส้นทาง NDK ใน local.properties
       - "flutter clean"
       - "flutter pub get"
       - "flutter build apk --debug --info"
       - "flutter build apk --stacktrace"
+      - sdkmanager --install "ndk-bundle"
+      - echo "ndk.dir=$ANDROID_SDK_ROOT/ndk-bundle" >> local.properties
+
