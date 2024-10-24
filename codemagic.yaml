@@ -1,15 +1,14 @@
 workflows:
   build:
     environment:
-      android:
-        ndk: "21.4.7075529"  # ระบุ NDK เวอร์ชันที่ต้องการใช้
+      vars:
+        NDK_VERSION: "21.4.7075529"  # ตั้งค่าเวอร์ชัน NDK ที่ต้องการใช้
     scripts:
-      - sdkmanager --install "ndk;21.4.7075529"  # ติดตั้ง NDK
-      - echo "ndk.dir=$ANDROID_SDK_ROOT/ndk/21.4.7075529" >> local.properties  # อัปเดตเส้นทาง NDK
+      - sdkmanager --install "ndk;$NDK_VERSION"  # ติดตั้ง NDK
+      - echo "ndk.dir=$ANDROID_SDK_ROOT/ndk/$NDK_VERSION" >> local.properties  # อัปเดตเส้นทาง NDK
       - flutter clean
       - flutter pub get
-      - flutter build apk
-      - flutter build appbundle --debug --info
+      - flutter build apk --debug --info
       - echo "NDK Path: $ANDROID_NDK_HOME"
       - echo "NDK Path from local.properties: $(cat local.properties | grep ndk.dir)"
       - flutter build apk --stacktrace
