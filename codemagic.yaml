@@ -9,6 +9,6 @@ workflows:
       - flutter clean
       - flutter pub get
       - flutter build apk --debug --info
-      - echo "NDK Path: $ANDROID_NDK_HOME"
-      - echo "NDK Path from local.properties: $(cat local.properties | grep ndk.dir)"
+      - echo "NDK Path: \$ANDROID_NDK_HOME"  # การใช้ backslash เพื่อ escape ตัวแปร
+      - echo "NDK Path from local.properties: \$(cat local.properties | grep ndk.dir)"  # escape ตัวแปรเพื่อใช้ใน YAML
       - flutter build apk --stacktrace
