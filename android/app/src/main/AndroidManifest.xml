@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" 
-package="com.example.wisdom_herbs">
+package="com.burapha.wisdom_herbs">
     <application
         android:label="Wisdom Herbs"
         android:name="${applicationName}"

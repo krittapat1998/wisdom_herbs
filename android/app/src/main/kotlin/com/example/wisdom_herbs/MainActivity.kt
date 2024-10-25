@@ -1,4 +1,4 @@
-package com.example.wisdom_herbs
+package com.burapha.wisdom_herbs
 
 // import io.flutter.embedding.android.FlutterUnityActivity
 import com.xraph.plugin.flutter_unity_widget.FlutterUnityActivity;
