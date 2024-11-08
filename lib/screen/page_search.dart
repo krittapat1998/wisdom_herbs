@@ -233,8 +233,28 @@ class _SearchHerbsState extends State<SearchHerbs> {
                                   child: ListTile(
                                     leading: doc['img'] != null &&
                                             doc['img'].isNotEmpty
-                                        ? Image.network(doc['img'][0])
-                                        : null,
+                                        ? SizedBox(
+                                            width:
+                                                60, // กำหนดความกว้างของรูปภาพ
+                                            height: 60, // กำหนดความสูงของรูปภาพ
+                                            child: ClipRRect(
+                                              borderRadius:
+                                                  BorderRadius.circular(
+                                                      8), // ทำให้รูปภาพมีมุมโค้ง
+                                              child: Image.network(
+                                                doc['img'][0],
+                                                fit: BoxFit
+                                                    .cover, // ทำให้รูปภาพครอบคลุมพื้นที่ทั้งหมด
+                                              ),
+                                            ),
+                                          )
+                                        : const SizedBox(
+                                            width: 60,
+                                            height: 60,
+                                            child: Icon(Icons.image,
+                                                color: Colors
+                                                    .grey), // แสดงไอคอนแทนหากไม่มีรูป
+                                          ),
                                     title: Text(
                                       doc['title'],
                                       style: const TextStyle(

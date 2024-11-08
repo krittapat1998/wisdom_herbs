@@ -82,9 +82,26 @@ class _PageHerbsListState extends State<PageHerbsList> {
                       margin: const EdgeInsets.symmetric(
                           vertical: 4, horizontal: 5),
                       child: ListTile(
+                        // leading: imgList != null && imgList.isNotEmpty
+                        //     ? Image.network(imgList[0])
+                        //     : null,
                         leading: imgList != null && imgList.isNotEmpty
-                            ? Image.network(imgList[0])
-                            : null,
+                            ? SizedBox(
+                                width: 60, // กำหนดความกว้างที่ต้องการ
+                                height: 60, // กำหนดความสูงที่ต้องการ
+                                child: Image.network(
+                                  imgList[0],
+                                  fit: BoxFit
+                                      .cover, // ทำให้ภาพขยายและครอบคลุมพื้นที่ทั้งหมด
+                                ),
+                              )
+                            : const SizedBox(
+                                width: 60,
+                                height: 60,
+                                child: Icon(Icons.image,
+                                    color:
+                                        Colors.grey), // แสดงไอคอนแทนหากไม่มีรูป
+                              ),
                         title: Text(
                           doc.id, // Use doc.id to display the document ID
                           style: const TextStyle(
