@@ -47,8 +47,13 @@ class _PageCommunitEnterpriseState extends State<PageCommunitEnterprise> {
       appBar: AppBar(
         title: const Text("วิสาหกิจชุมชน"),
         backgroundColor: Colors.green,
+        leading: IconButton(
+        icon: const Icon(Icons.arrow_back),
+          onPressed: () {
+            Navigator.pop(context);
+          },
+        ),
       ),
-      drawer: MenuDrawer(firestorePassword: firestorePassword),
       body: Column(
         children: [
           Expanded(

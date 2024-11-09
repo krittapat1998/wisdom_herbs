@@ -88,8 +88,13 @@ class _SearchHerbsState extends State<SearchHerbs> {
       appBar: AppBar(
         title: const Text("ค้นหาสมุนไพรและวิสาหกิจชุมชน"),
         backgroundColor: Colors.green,
+        leading: IconButton(
+        icon: const Icon(Icons.arrow_back),
+          onPressed: () {
+            Navigator.pop(context);
+          },
+        ),
       ),
-      drawer: MenuDrawer(firestorePassword: firestorePassword),
       body: Column(
         children: [
           Padding(

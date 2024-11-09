@@ -47,8 +47,13 @@ class _PageHerbsListState extends State<PageHerbsList> {
       appBar: AppBar(
         title: const Text("รายการสมุนไพร"),
         backgroundColor: Colors.green,
+        leading: IconButton(
+        icon: const Icon(Icons.arrow_back),
+          onPressed: () {
+            Navigator.pop(context);
+          },
+        ),
       ),
-      drawer: MenuDrawer(firestorePassword: firestorePassword),
       body: Column(
         children: [
           Expanded(
