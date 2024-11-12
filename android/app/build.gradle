@@ -56,8 +56,8 @@ android {
         applicationId "com.burapha.wisdom_herbs"
         minSdkVersion 28  // >= unity minSdk in player settings
         targetSdkVersion 34
-        versionCode 4
-        versionName '1.0.4'
+        versionCode 5
+        versionName '1.0.5'
     }
 
     signingConfigs {

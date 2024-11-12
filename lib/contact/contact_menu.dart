@@ -14,7 +14,7 @@ List<IconModel> imaterialIcons = [
     destination: const PageHerbsList(),
   ),
   IconModel(
-    name: 'วิสาหกกิจ',
+    name: 'วิสาหกิจ',
     imagePath: 'assets/images/icons/cottage_.png',
     destination: const PageCommunitEnterprise(),
   ),

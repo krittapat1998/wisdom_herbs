@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:logger/logger.dart';
 import 'package:wisdom_herbs/contact/dark_pass.dart';
-import 'package:wisdom_herbs/screen/drawer_menu.dart';
+// import 'package:wisdom_herbs/screen/drawer_menu.dart';
 import 'package:wisdom_herbs/screen/detail_etprise.dart';
 
 class PageCommunitEnterprise extends StatefulWidget {
