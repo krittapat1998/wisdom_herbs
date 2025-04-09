@@ -42,7 +42,7 @@ class _DetailEtpriseState extends State<DetailEtprise> {
         }
       }
     } catch (e) {
-      print("Error fetching Etprise details: $e");
+      //print("Error fetching Etprise details: $e");
       if (mounted) {
         setState(() {
           isLoading = false;
